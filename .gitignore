@@ -1,0 +1,21 @@
+
+# Python virtual environments
+.venv/
+.venv312/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset files (download separately)
+data/*.csv
+*.zip
+
+# Private configuration
+.env
+.streamlit/secrets.toml
+
+# Temporary files
+*.log
+.DS_Store
