@@ -19,3 +19,6 @@ data/*.csv
 # Temporary files
 *.log
 .DS_Store
+
+# Trained machine learning model
+models/*.joblib
